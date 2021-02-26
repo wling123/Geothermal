@@ -1,5 +1,8 @@
 # Geothermal
-The objective we develop customized predictive analytics tool to enable efficient surveillance, control, and automation of geothermal operations. By integrating state-of-the-art machine learning algorithms with advanced multi-physics monitoring data acquisition systems, this subtask aims to develop into real-time model predictive control algorithms to improve the efficiency of energy production operations in geothermal reservoirs. //
+## Introduction
+The objective we develop customized predictive analytics tool to enable efficient surveillance, control, and automation of geothermal operations. By integrating state-of-the-art machine learning algorithms with advanced multi-physics monitoring data acquisition systems, this subtask aims to develop into real-time model predictive control algorithms to improve the efficiency of energy production operations in geothermal reservoirs.  
+
+
 To be more specific, there are three parts in this subtask. 
 (i)	Latent space dynamic modeling for power plant data
 (ii)	Numerical process model for the power plant
